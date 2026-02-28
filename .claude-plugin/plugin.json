@@ -1,0 +1,20 @@
+{
+  "name": "test-case-writer",
+  "description": "Generates comprehensive test cases for mobile apps, backend services, and more using proven test design methodologies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Teemo",
+    "email": "support@anthropic.com"
+  },
+  "keywords": [
+    "testing",
+    "test-cases",
+    "QA",
+    "quality-assurance",
+    "test-design",
+    "mobile-testing",
+    "api-testing",
+    "backend-testing"
+  ],
+  "license": "MIT"
+}
