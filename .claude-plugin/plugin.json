@@ -16,5 +16,7 @@
     "api-testing",
     "backend-testing"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/fitz3897-dotcom/test-case-writer",
+  "homepage": "https://github.com/fitz3897-dotcom/test-case-writer"
 }
